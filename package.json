@@ -1,0 +1,9 @@
+{
+  "name": "mustafa-hussein-teaser",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Teaser / coming-soon landing page — Mustafa Hussein",
+  "scripts": {
+    "start": "npx --yes serve . -l 3000"
+  }
+}
